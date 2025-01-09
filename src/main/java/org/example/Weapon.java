@@ -1,8 +1,8 @@
 package org.example;
 
 public enum Weapon {
-    SWORD(50, 1.5),
-    BOW(30, 2.0);
+    SWORD(60, 5),
+    BOW(45, 3);
 
     private final int damage;
     private final double attackSpeed;
